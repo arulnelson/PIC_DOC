@@ -13,7 +13,11 @@ PORTB = 0x00;
 	{
 	
 	PORTB =~ PORTB;;
+<<<<<<< HEAD
 	__delay_ms(3000);
+=======
+	__delay_ms(2000);
+>>>>>>> 5499599bcd5de62c34ff596514ecf20b723e2cb1
 
 	}
 
