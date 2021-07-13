@@ -13,7 +13,7 @@ PORTB = 0x00;
 	{
 	
 	PORTB =~ PORTB;;
-	__delay_ms(1000);
+	__delay_ms(3000);
 
 	}
 
